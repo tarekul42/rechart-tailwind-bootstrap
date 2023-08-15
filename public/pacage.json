@@ -1,0 +1,94 @@
+{
+    "students": [
+      {
+        "name": "John Doe",
+        "bangla": 85,
+        "english": 78,
+        "ict": 92,
+        "physics": 88,
+        "chemistry": 79,
+        "biology": 91
+      },
+      {
+        "name": "Jane Smith",
+        "bangla": 90,
+        "english": 86,
+        "ict": 78,
+        "physics": 92,
+        "chemistry": 85,
+        "biology": 83
+      },
+      {
+        "name": "Md. Rahman",
+        "bangla": 95,
+        "english": 92,
+        "ict": 88,
+        "physics": 75,
+        "chemistry": 80,
+        "biology": 89
+      },
+      {
+        "name": "Ayesha Khan",
+        "bangla": 80,
+        "english": 85,
+        "ict": 90,
+        "physics": 79,
+        "chemistry": 83,
+        "biology": 88
+      },
+      {
+        "name": "Ali Hassan",
+        "bangla": 88,
+        "english": 90,
+        "ict": 85,
+        "physics": 82,
+        "chemistry": 91,
+        "biology": 87
+      },
+      {
+        "name": "Sara Patel",
+        "bangla": 92,
+        "english": 85,
+        "ict": 88,
+        "physics": 78,
+        "chemistry": 86,
+        "biology": 90
+      },
+      {
+        "name": "Robert Johnson",
+        "bangla": 84,
+        "english": 80,
+        "ict": 90,
+        "physics": 82,
+        "chemistry": 85,
+        "biology": 88
+      },
+      {
+        "name": "Emily Lee",
+        "bangla": 88,
+        "english": 84,
+        "ict": 86,
+        "physics": 90,
+        "chemistry": 82,
+        "biology": 87
+      },
+      {
+        "name": "Michael Wang",
+        "bangla": 85,
+        "english": 87,
+        "ict": 92,
+        "physics": 85,
+        "chemistry": 89,
+        "biology": 84
+      },
+      {
+        "name": "Sophia Kim",
+        "bangla": 89,
+        "english": 90,
+        "ict": 85,
+        "physics": 86,
+        "chemistry": 91,
+        "biology": 88
+      }
+    ]
+  }
